@@ -15,12 +15,15 @@ Packages used:
 * factoextra
 * ggcorrplot
 
+# Dataset 
+
+The dataset used in the analysis was obtained through [Datacamp][https://www.datacamp.com] and corresponds to the Humour Style Questionnaire developed by Rod Martin et al. that can be found [here](http://www.humorstyles.com/).  
 
 # Troubleshooting during package installation for Ubuntu users.
 
 As a Ubuntu user, once I had R and RStudio downloaded and installed, I had the following issue during the installation of the `tidyverse` package:
 
-![alt-text](https://github.com/rubengura/RMeetupPCA/images/tidyverse_error.png "Click to expand")
+![alt-text](https://github.com/rubengura/RMeetupPCA/images/"tidyverse_error.png" "Click to expand")
 
 In order to solve it, I had to write in the terminal the following instruction:
 
