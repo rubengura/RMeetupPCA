@@ -14,10 +14,11 @@ Packages used:
 * FactoMineR
 * factoextra
 * ggcorrplot
+* psych
 
 # Dataset 
 
-The dataset used in the analysis was obtained through [Datacamp][https://www.datacamp.com] and corresponds to the Humour Style Questionnaire developed by Rod Martin et al. that can be found [here](http://www.humorstyles.com/).  
+The dataset used in the analysis was obtained through [Datacamp](https://www.datacamp.com) and corresponds to the Humour Style Questionnaire developed by Rod Martin et al. that can be found [here](http://www.humorstyles.com/).  
 
 # Troubleshooting during package installation for Ubuntu users.
 
